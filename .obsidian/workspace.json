@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new page.md",
+                "file": "Результаты/new page.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new page.md",
+                "file": "Результаты/new page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new page.md",
+                "file": "Результаты/new page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new page.md",
+                "file": "Результаты/new page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,11 +184,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4f732fad09aeda18",
+  "active": "a203ec200ec17b25",
   "lastOpenFiles": [
     "Дизайн.md",
-    "new page.md",
-    "Название.md",
+    "Результаты/new page.md",
+    "Результаты/Название.md",
     "fgdfgdfgdfgdfg.md",
     "shawarma_strategy.md",
     "Результаты",
