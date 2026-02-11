@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fgdfgdfgdfgdfg.md",
+                "file": "Название.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fgdfgdfgdfgdfg"
+              "title": "Название"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fgdfgdfgdfgdfg.md",
+                "file": "Название.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fgdfgdfgdfgdfg"
+              "title": "Backlinks for Название"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fgdfgdfgdfgdfg.md",
+                "file": "Название.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from fgdfgdfgdfgdfg"
+              "title": "Outgoing links from Название"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fgdfgdfgdfgdfg.md",
+                "file": "Название.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fgdfgdfgdfgdfg"
+              "title": "Outline of Название"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "4f732fad09aeda18",
   "lastOpenFiles": [
-    "shawarma_strategy.md",
     "fgdfgdfgdfgdfg.md",
+    "Название.md",
+    "shawarma_strategy.md",
     "Результаты",
     "Стратегия"
   ]
