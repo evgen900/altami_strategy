@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"59a14710ea61c6dc","type":"file","file":"Дизайн.md","x":0,"y":-340,"width":400,"height":400},
+		{"id":"8e48c6e8f03ebd1b","x":-500,"y":160,"width":250,"height":60,"type":"text","text":"xcvxcvxcv"},
+		{"id":"f29ba4a6b62606c6","type":"file","file":"Результаты/shawarma_strategy.md","x":-540,"y":-460,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"5448523e06bf1a06","fromNode":"8e48c6e8f03ebd1b","fromSide":"right","toNode":"59a14710ea61c6dc","toSide":"left"},
+		{"id":"237bd5ea3018744f","fromNode":"f29ba4a6b62606c6","fromSide":"right","toNode":"59a14710ea61c6dc","toSide":"left"}
+	]
+}

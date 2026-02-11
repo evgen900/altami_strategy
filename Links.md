@@ -1,0 +1,3 @@
+
+[[Дизайн]]
+[[shawarma_strategy]]

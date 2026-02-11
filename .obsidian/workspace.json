@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4fea71f3b8722fb4",
+        "id": "b6dde3064bf530fe",
         "type": "tabs",
         "children": [
           {
-            "id": "4f732fad09aeda18",
+            "id": "559074b50c27e4c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Результаты/Название.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Название"
+            }
+          },
+          {
+            "id": "e4e5407b29583bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "new page"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Результаты/new page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for new page"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Результаты/new page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from new page"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Результаты/new page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of new page"
+              "title": "Outline"
             }
           }
         ]
@@ -181,17 +193,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a203ec200ec17b25",
+  "active": "e4e5407b29583bc3",
   "lastOpenFiles": [
-    "Какая-то инфа.pdf",
-    "Дизайн.md",
-    "Результаты/new page.md",
+    "Результаты/shawarma_strategy.md",
+    "Результаты/Untitled.canvas",
     "Результаты/Название.md",
+    "Links.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Результаты/new page.md",
+    "Excalidraw/Evgen test.md",
+    "Excalidraw",
+    "Untitled.md",
+    "Какая-то инфа.pdf",
     "fgdfgdfgdfgdfg.md",
-    "shawarma_strategy.md",
+    "Дизайн.md",
+    "Результаты/Untitled.base",
     "Результаты",
     "Стратегия"
   ]
