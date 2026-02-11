@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shawarma_strategy.md",
+                "file": "fgdfgdfgdfgdfg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shawarma_strategy"
+              "title": "fgdfgdfgdfgdfg"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shawarma_strategy.md",
+                "file": "fgdfgdfgdfgdfg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shawarma_strategy"
+              "title": "Backlinks for fgdfgdfgdfgdfg"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shawarma_strategy.md",
+                "file": "fgdfgdfgdfgdfg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shawarma_strategy"
+              "title": "Outgoing links from fgdfgdfgdfgdfg"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shawarma_strategy.md",
+                "file": "fgdfgdfgdfgdfg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shawarma_strategy"
+              "title": "Outline of fgdfgdfgdfgdfg"
             }
           }
         ]
@@ -180,11 +180,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "a203ec200ec17b25",
+  "active": "4f732fad09aeda18",
   "lastOpenFiles": [
+    "shawarma_strategy.md",
+    "fgdfgdfgdfgdfg.md",
     "Результаты",
     "Стратегия"
   ]
